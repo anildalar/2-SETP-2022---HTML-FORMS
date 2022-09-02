@@ -1,3 +1,22 @@
 Why we use HTML Forms ?
 
 To collect information from users
+
+Frontend Technology
+1. HTML  (Structure)
+2. CSS   (Design)
+3. JS     (Functinaly/Behaviour)
+
+
+fieldset p
+	legend c
+
+select  p
+	option  c
+
+
+
+Query String
+index.html?name=value&name=value&name=value&....
+
+index.html?firstname=ANIL&lastname=DOLLOR&gender=male&email=dollorinfotech%40gmail.com&dateofbirth=2022-09-03&submit=Save
