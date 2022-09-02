@@ -1,0 +1,3 @@
+Why we use HTML Forms ?
+
+To collect information from users
